@@ -18,7 +18,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Aumazing Tech Blog                          # the main title
+title: Aumazing Tech                          # the main title
 
 tagline: Tech Blog Building Project for just a mere data product owner   # it will display as the sub-title
 
