@@ -17,7 +17,7 @@ order: 4
 
 #### Occupation 2: Researcher at dX-Lab, Sungkyunkwan University
 
-> I am a fourth semester M. Sc. student, majoring in Interaction Science with an emphasis of Human A.I. Interaction.
+> I am a fourth semester M. Sc. student, majoring in Interaction Science with an emphasis on Human A.I. Interaction.
 > - The second author of the COVID-19 related datasets contribution manuscript that was published in Telematics and Informatics journal (IF=6.182)
 > - Leading and assisting research design and writing process for international
 conferences and journals submissions
@@ -26,3 +26,10 @@ conferences and journals submissions
 
 
 #### Education
+> Sungkyunkwan University
+> - Master of Science - MS, Interaction Science with an emphasis on Human A.I. Interaction
+> - 2020 - 2022
+
+> University of Missouri - Columbia
+> - Bachelor of Arts - Journalism with an emphasis on Strategic Communication
+> - 2017 - 2020
