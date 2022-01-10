@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> **Note**: This blog is still under construction as I just suck at front-end and markdown and all...
