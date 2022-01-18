@@ -5,14 +5,11 @@ tags: [data]     # TAG names should always be lowercase
 ---
 
 ## For the past two years, I have been learning how to collect data from scratch
-
 Then, for the past few months, I have learned that just knowing how to collect data is not sufficient enough to make a good living.
 
 It's also, not very productive. 
 
-Let's say you have learned some basic codings, just enough to build your own crawler, or use web API to collect data from the open web.
-
-The next thing is you need to know is how to properly put those bits and pieces together to make some sense out of it.
+Let's say you have learned some basic codings, just enough to build your own crawler, or use web API to collect data from the open web. The next thing is you need to know is how to properly put those bits and pieces together to make some sense out of it.
 
 As a product owner of a mid-sized company, I don't get to do a lot of data scraping myself, since we have a DB-ful of data that is being generated every second.
 
